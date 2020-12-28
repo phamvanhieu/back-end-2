@@ -1,0 +1,23 @@
+{
+    "name": "phamvanhieu/training-module",
+    "type": "library",
+    "description": "test module",
+    "keywords": [
+        "log","logging"
+    ],
+    "authors": [
+        {
+            "name": "phamvanhieu",
+            "email": "vanhieup1998@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "phamvanhieu\\module\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
